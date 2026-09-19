@@ -17,7 +17,7 @@
         "tekken7": { "s3": "Jin_s3.ini", "s4":"Jin_S4.txt" }
       }
     },
-    "julia": { "name": "Julia Chang", "roster_number": 10, "games": { "tekken7": {"s1":"Julia_S3.txt"} } },
+    "julia": { "name": "Julia Chang", "roster_number": 10, "games": { "tekken7": {"s3":"Julia_S3.txt"} } },
     "negan": { "name": "Negan",
       "roster_number": 11, "games":{
         "tekken7":{"s4":"Negan.ini"}
