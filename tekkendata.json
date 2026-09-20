@@ -1,0 +1,96 @@
+{
+  "characters": {
+    
+    "paul": { "name": "Paul Phoenix", "roster_number": 0, "games": { "tekken8": {}, "tekken7": {"s3":"Paul_S3.txt","s4":"Paul_s4.txt"} } },
+    "law": { "name": "Marshall Law", "roster_number": 1, "games": { "tekken8": {}, "tekken7": {"s4":"Lars_S4.txt"} } },
+    "lei": { "name": "Lei Wulong", "roster_number": 2, "games": { "tekken7": {"s4":"Lei_S4.txt"} } },
+    "king": { "name": "King", "roster_number": 3, "games": { "tekken8": {"s3":"King_T8s3.txt"}, "tekken7": {"s4":"King_S4.txt"} } },
+    "yoshimitsu": { "name": "Yoshimitsu", "roster_number": 4, "games": { "tekken8": {}, "tekken7": {"s3":"Yoshimitsu_S3.txt","s4":"Yoshimitsu_S4.txt"} } },
+    "nina": { "name": "Nina Williams", "roster_number": 5, "games": { "tekken8": {"s1":"Nina_T8s1.7z"}, "tekken7": {"s3":"Nina_S3.txt"} } },
+    "hwoarang": { "name": "Hwoarang", "roster_number": 6, "games": { "tekken8": {}, "tekken7": {"s4":"Hwoarang_S4.txt"} } },
+    "xiaoyu": { "name": "Ling Xiaoyu", "roster_number": 7, "games": { "tekken8": {"s1":"Xiaoyu_T8s1.7z"}, "tekken7": {} } },
+    "Kunimitsu": { "name": "Kunimitsu II", "roster_number": 8, "games": {"tekken7":{"s4":"Kinimitsu.txt"}} },
+    "jin": {
+      "name": "Jin Kazama",
+      "roster_number": 9,
+      "games": {
+        "tekken8": { "s1": {"file":"jin_T8s1.ini.txt","creator":5}, "s2":{"file":"Jin_T8s2.zip","creator":3},"s3":{"file":"Jin_T8s33.zip","status":"","creator":3}},
+        "tekken7": { "s3": "Jin_s3.ini", "s4":"Jin_S4.txt" }
+      }
+    },
+    "julia": { "name": "Julia Chang", "roster_number": 10, "games": { "tekken7": {"s1":"Julia_S3.txt"} } },
+    "negan": { "name": "Negan",
+      "roster_number": 11, "games":{
+        "tekken7":{"s4":"Negan.ini"}
+      }
+    },
+    "bryan": {
+      "name": "Bryan Fury",
+      "roster_number": 12,
+      "games": {
+        "tekken8": { "s3":"Bryan_T8s3.txt" },
+        "tekken7": {"s4":"Bryan_S4.txt"}
+      }
+    },
+    "heihachi": { "name": "Heihachi Mishima", "roster_number": 13, "games": { "tekken8": {"s1":"Heihachi_T8s1.txt"}, "tekken7": {"s4":"Heihachi_S4.txt"} } },
+    "kazuya": {
+      "name": "Kazuya Mishima",
+      "roster_number": 14,
+      "games": {
+        "tekken8": { "s1":{"file":"Kazuya_T8s1.txt","creator":"5"},"s2":{"file":"Kazuya_T8s2.txt","status":"green"},"s3": {"file":"Kazuya_T8s3.zip","status":"green","creator":"3"}},
+        "tekken7": {"s3":"Kayuza_S3.txt","s4":"Kazuya_S4.txt"}
+      }
+    },
+    "lee": { "name": "Lee Chaolan", "roster_number": 15, "games": { "tekken8": {"s2":{"file":"Lee_T8s2.zip","creator":3}}, "tekken7": {"s1":"lee.txt"} } },
+    "steve": { "name": "Steve Fox", "roster_number": 16, "games": { "tekken8": {}, "tekken7": {"s4":"Steve_Fox_S4.txt"} } },
+    "marduk": { "name": "Craig Marduk", "roster_number": 17, "games": { "tekken7": {"s4":"Marduk_S4.txt"} } },
+    "jack": { "name": "Jack", "roster_number": 18, "games": { "tekken8": {}, "tekken7": {"s4":"Jack7_S4.txt"} } },
+    "roger": { "name": "Roger Jr.", "roster_number": 19, "games": {} },
+    "anna": { "name": "Anna Williams", "roster_number": 20, "games": { "tekken7": {"s3":"Anna_S3.txt","s4":"Anna_s4.txt"} } },
+    
+    "wang": { "name": "Wang Jinrei", "roster_number": 21, "games": {} },
+    "asuka": { "name": "Asuka Kazama", "roster_number": 23, "games": { "tekken8": {}, "tekken7": {"s4":"Asuka_S4.txt"} } },
+    "bruce": { "name": "Bruce Irvin", "roster_number": 24, "games": {} },
+    "saheen": { "name": "saheen San", "roster_number": 25, "games": {"tekken8":{"s3":"Saheen_T8s3.txt"}} },
+    "devil_jin": { "name": "Devil Jin", "roster_number": 26, "games": { "tekken8": {"s1":"dvj_T8s1.ini.txt","s2":"dvj_T8s2.txt"}, "tekken7": {"s4":"Devil_Jin_S4.txt"} } },
+    "raven": { "name": "Raven", "roster_number": 27, "games": { "tekken8": {"s1-beta":""}, "tekken7": {"s4":"Raven_S4.txt"} } },
+    "feng": { "name": "Feng Wei", "roster_number": 28, "games": { "tekken8": {"s3":"Feng_T8s3.txt"}, "tekken7": {"s4":"Feng_S4.txt"} } },
+    "armor_king": { "name": "Armor King", "roster_number": 29, "games": { "tekken7": {"s4":"Armorking_s4.ini.txt"} } },
+    "lili": { "name": "Lili De Rochefort", "roster_number": 30, "games": { "tekken8": {"s1":"T8LILS1PATCHCOUNTER.7z","s3":"Lili_T8s3.txt"}, "tekken7": {"s4":"Lili_S4.txt"} } },
+    
+    "dragunov": { "name": "Sergei Dragunov", "roster_number": 31, "games": { "tekken8": {"s3":{"file":"Dragunov_T8s3.zip","creator":3}}, "tekken7": {"s4":"Dragunov_S4.txt"} } },
+    "eddy": { "name": "Eddy Gordo", "roster_number": 33, "games": { "tekken8": {"s3":"Eddy_T8s3.txt"}, "tekken7": {"s3":"Eddy_S3.txt","s4":"Eddy_S4.ini"} } },
+    "bob": { "name": "Bob", "roster_number": 34, "games": { "tekken7": {"s4":"Bob_S4.txt"} } },
+    "zafina": { "name": "Zafina", "roster_number": 35, "games": { "tekken8": {}, "tekken7": {"s4":"Zafina_S4.ini","s3":"Zafina_S3.txt"} } },
+    "miguel": { "name": "Miguel Caballero Rojo", "roster_number": 36, "games": { "tekken7": {"s4":"Miguel_S4.txt"} } },
+    "leo": { "name": "Leo Kliesen", "roster_number": 37, "games": { "tekken8": {}, "tekken7": {"s3":"Leo_S3.txt","s4":"Leo_s4.txt"} } },
+    "lars": { "name": "Lars Alexandersson", "roster_number": 40, "games": { "tekken8": {"s3":"Lars_T8s3.txt"}, "tekken7": {"s4":"Lars_S4.txt"} } },
+    "alisa": { "name": "Alisa Bosconovitch", "roster_number": 41, "games": { "tekken8": {}, "tekken7": {"s3":"Alisa_S3.txt","s4":"Alisa_s4.txt"} } },
+
+    "claudio": { "name": "Claudio Serafino", "roster_number": 42, "games": { "tekken8": {}, "tekken7": {} } },
+    "leroy": { "name": "Leroy Smith", "roster_number": 43, "games": { "tekken8": {}, "tekken7": {"s4":"leroy_s4.txt"} } },
+    "fahkumram": { "name": "Fahkumram", "roster_number": 44, "games": { "tekken7": {"s4":"Fahkumram_s4.txt"} } },
+    "lidia": { "name": "Lidia Sobieska", "roster_number": 45, "games": { "tekken8": {}, "tekken7": {"s4":"Lidia_Sobieski.txt"} } },
+    "azucena": { "name": "Azucena", "roster_number": 46, "games": { "tekken8": {} } },
+    "victor": { "name": "Victor Chevalier", "roster_number": 47, "games": { "tekken8": {"s1":{"file":"Victor_T8s1.7z","creator":5} } }},
+    "reina": { "name": "Reina", "roster_number": 48, "games": { "tekken8": {"s1":"Reina_T8s1.txt"} } }
+  },
+    "others": [
+    {
+      "name": "Tekken Plugin",
+      "file": "PLUGINS.7z",
+      "status": "green"
+    },
+    {
+      "name": "rom Files (Tekken 6 usa version)",
+      "file": "https://m.coolrom.com/roms/psp/45588/Tekken_6.php",
+      "status": "green"
+    },
+    {
+      "name": "Alboss's Heat meter for t8",
+      "file": "Alboss.s.Heat.metarr.for.T8.codes.zip",
+      "status": "green"
+    }
+  ]
+}
+

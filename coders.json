@@ -1,0 +1,49 @@
+{
+  "1": {
+    "name": "Sadmitsu",
+    "role": "provide Tekken coding resources",
+    "status": "Legend",
+    "statusColor": "red",
+    "website": "https://www.sadamitsu.ru/mobi/",
+    "youtube": "https://youtube.com/@sadamitsu",
+    "discord": ""
+  },
+  "2": {
+    "name": "Rizz",
+    "role": "Creator (Tekken 7)",
+    "status": "RETIRED",
+    "statusColor": "red",
+    "website": "",
+    "youtube": "https://youtube.com/@rizzztgm",
+    "discord": "https://discord.com/users/USER_ID_HERE"
+  },
+  "3": {
+    "name": "Kiwiu",
+    "role": "Tekken 8 code creator",
+    "status": "ACTIVE",
+    "statusColor": "green",
+    "website": "",
+    "youtube": "https://youtube.com/@kiwiuthegreat",
+    "discord": "https://discord.com/users/693099201550352514"
+  },
+  "4": {
+    "name": "donutjain",
+    "role": "Tekken 8 code creator",
+    "status": "ACTIVE",
+    "statusColor": "green",
+    "website": "",
+    "youtube": "https://youtube.com/@donutjain1",
+    "discord": "https://discord.com/users/1133755063123320862"
+  },
+  "5":{
+    "name":"shokyaku",
+    "role":"tekken 8 code creator",
+    "status":"Retired",
+    "youtube":"https://youtube.com/@shokyaku.?si=ryQA-MYRXv0tNKcT"
+  },
+  "6":{
+    "name":"Daze",
+    "role":"tekken 8 code creator"
+  }
+  
+}
