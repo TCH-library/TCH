@@ -73,7 +73,8 @@
     "lidia": { "name": "Lidia Sobieska", "roster_number": 45, "games": { "tekken8": {}, "tekken7": {"s4":"Lidia_Sobieski.txt"} } },
     "azucena": { "name": "Azucena", "roster_number": 46, "games": { "tekken8": {} } },
     "victor": { "name": "Victor Chevalier", "roster_number": 47, "games": { "tekken8": {"s1":{"file":"Victor_T8s1.7z","creator":5} } }},
-    "reina": { "name": "Reina", "roster_number": 48, "games": { "tekken8": {"s1":"Reina_T8s1.txt"} } }
+    "reina": { "name": "Reina", "roster_number": 48, "games": { "tekken8": {"s1":"Reina_T8s1.txt"} } },
+    "Jun": { "name": "Jun kazama", "roster_number": 49, "games": { "tekken8": {"s2":"Jun_T8s2.txt"} } }
   },
     "others": [
     {
